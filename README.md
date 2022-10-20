@@ -4,6 +4,13 @@
   1. Create an Amazon S3 bucket
   2. Enable static website hosting
   3. Secure Amazon S3 bucket using a bucket policy
+### Diagram 
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/97893144/196945808-eb9789eb-be6e-4421-968d-ec4d34cb330e.png">
+
+<img width="220" alt="image" src="https://user-images.githubusercontent.com/97893144/196946062-a5ad8bb3-932f-4e4e-833e-e60783a0c6e7.png"> <img width="220" alt="image" src="https://user-images.githubusercontent.com/97893144/196946140-fce47422-883b-4749-b414-a6011ec7249b.png">
+<img width="220" alt="image" src="https://user-images.githubusercontent.com/97893144/196946267-66a86a8a-4d9f-4359-9dc6-062c1b1e4513.png">
+<img width="220" alt="image" src="https://user-images.githubusercontent.com/97893144/196946327-6b8e34da-95fa-43df-9124-19287f7957dc.png">
+
 
 ### Files to be added to the bucket are listed below 
 <img width="94" alt="image" src="https://user-images.githubusercontent.com/97893144/196934232-31c6621c-b494-4770-82a1-15c879531d9e.png">
