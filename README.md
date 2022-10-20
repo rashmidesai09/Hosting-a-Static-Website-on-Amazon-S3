@@ -71,7 +71,8 @@ Step 7 : Copy your buckets ARN
 
 In this case the ARN is arn:aws:s3:::rashmisbucketforcloudquest
 
-Note :<img width="197" alt="image" src="https://user-images.githubusercontent.com/97893144/196939575-56350953-67dc-42c3-b2dd-b028bf51964c.png">
+Note :
+<img width="197" alt="image" src="https://user-images.githubusercontent.com/97893144/196939575-56350953-67dc-42c3-b2dd-b028bf51964c.png">
 
 Step 8 : Edit the policy and replace the ARN, ensure the ARN ends with /*
 <img width="532" alt="image" src="https://user-images.githubusercontent.com/97893144/196939943-50c297cb-cc7c-4da2-9803-4b4e82e94a99.png">
@@ -89,7 +90,8 @@ Step 10 : Go back to properties tab and scroll to static website hosting and fol
 
 This would like - http://rashmisbucketforcloudquest.s3-website-us-east-1.amazonaws.com
 
-Note : <img width="188" alt="image" src="https://user-images.githubusercontent.com/97893144/196940873-2b63df8a-0143-4559-9bc8-afda2d9682ef.png">
+Note : 
+<img width="188" alt="image" src="https://user-images.githubusercontent.com/97893144/196940873-2b63df8a-0143-4559-9bc8-afda2d9682ef.png">
 
 Step 11 : Open a new window or browser tab with the new URL that was copied  - http://rashmisbucketforcloudquest.s3-website-us-east-1.amazonaws.com
 
