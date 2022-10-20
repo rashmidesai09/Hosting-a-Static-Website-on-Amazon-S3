@@ -59,14 +59,18 @@ Step 5 : Click on properties and scroll down to static website hosting and follo
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/97893144/196938003-cef78b63-4a47-4bee-9ac3-a3f4b1ba0ce3.png">
 
 Note :
+
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/97893144/196938462-5e7dd015-d145-41d9-92ff-07285d476794.png">
+
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/97893144/196938610-5a0dd104-0838-4f7b-ad29-4471d7a8afc1.png">
 
 Step 6 : Go to Permissions tab
 <img width="669" alt="image" src="https://user-images.githubusercontent.com/97893144/196938896-19f7c2fa-1811-4275-9aa3-d7e356f1fb0e.png">
 
 Note :
+
 <img width="191" alt="image" src="https://user-images.githubusercontent.com/97893144/196939024-78369cdc-10cb-45a4-9f61-84683b80e518.png">
+
 <img width="690" alt="image" src="https://user-images.githubusercontent.com/97893144/196939085-97c48247-5905-4314-b02b-7d78f7a45c45.png">
 
 Step 7 : Copy your buckets ARN 
