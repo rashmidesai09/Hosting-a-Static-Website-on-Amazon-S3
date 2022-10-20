@@ -1,16 +1,21 @@
-# Hosting-a-Static-Website-on-Amazon-S3
+# Hosting a Static Website on Amazon S3
 
 ## Project Goal 
+Migrate an existing website to a static website on Amazon S3 in order to improve web application reliability
   1. Create an Amazon S3 bucket
   2. Enable static website hosting
   3. Secure Amazon S3 bucket using a bucket policy
-### Diagram 
+  
+### Diagram Steps
+<img width="625" alt="image" src="https://user-images.githubusercontent.com/97893144/197002688-5a073408-44b4-4ef4-a94e-4891a0f3b277.png">
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/97893144/197002779-e0740ec0-5919-4f6f-bafd-9f2342d7af62.png">
+<img width="663" alt="image" src="https://user-images.githubusercontent.com/97893144/197002877-3d0d290c-3499-4311-9b71-f9677b6718c4.png">
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/97893144/197002971-cffc8aa4-1f92-41f3-b788-2e3b23b10315.png">
+<img width="646" alt="image" src="https://user-images.githubusercontent.com/97893144/197003109-4c8bee07-408b-4ee2-b407-412e9e6e3c25.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/97893144/197003190-d6c52b48-52ff-4b26-965d-f1336369011c.png">
+<img width="703" alt="image" src="https://user-images.githubusercontent.com/97893144/197003283-3256b455-0781-4e56-b447-a6ba0de4151d.png">
+<img width="682" alt="image" src="https://user-images.githubusercontent.com/97893144/197003375-a2de2373-c64d-4d19-b738-85e3af11bfca.png">
 <img width="590" alt="image" src="https://user-images.githubusercontent.com/97893144/196945808-eb9789eb-be6e-4421-968d-ec4d34cb330e.png">
-
-<img width="220" alt="image" src="https://user-images.githubusercontent.com/97893144/196946062-a5ad8bb3-932f-4e4e-833e-e60783a0c6e7.png"> <img width="220" alt="image" src="https://user-images.githubusercontent.com/97893144/196946140-fce47422-883b-4749-b414-a6011ec7249b.png">
-<img width="220" alt="image" src="https://user-images.githubusercontent.com/97893144/196946267-66a86a8a-4d9f-4359-9dc6-062c1b1e4513.png">
-<img width="220" alt="image" src="https://user-images.githubusercontent.com/97893144/196946327-6b8e34da-95fa-43df-9124-19287f7957dc.png">
-
 
 ### Files to be added to the bucket are listed below 
 <img width="94" alt="image" src="https://user-images.githubusercontent.com/97893144/196934232-31c6621c-b494-4770-82a1-15c879531d9e.png">
@@ -55,7 +60,6 @@ Step 5 : Click on properties and scroll down to static website hosting and follo
 
 Note :
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/97893144/196938462-5e7dd015-d145-41d9-92ff-07285d476794.png">
-
 <img width="631" alt="image" src="https://user-images.githubusercontent.com/97893144/196938610-5a0dd104-0838-4f7b-ad29-4471d7a8afc1.png">
 
 Step 6 : Go to Permissions tab
@@ -63,7 +67,6 @@ Step 6 : Go to Permissions tab
 
 Note :
 <img width="191" alt="image" src="https://user-images.githubusercontent.com/97893144/196939024-78369cdc-10cb-45a4-9f61-84683b80e518.png">
-
 <img width="690" alt="image" src="https://user-images.githubusercontent.com/97893144/196939085-97c48247-5905-4314-b02b-7d78f7a45c45.png">
 
 Step 7 : Copy your buckets ARN 
