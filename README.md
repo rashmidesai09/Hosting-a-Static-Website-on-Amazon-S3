@@ -68,7 +68,7 @@ Note :
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/97893144/196938462-5e7dd015-d145-41d9-92ff-07285d476794.png">
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/97893144/196938610-5a0dd104-0838-4f7b-ad29-4471d7a8afc1.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/97893144/196938610-5a0dd104-0838-4f7b-ad29-4471d7a8afc1.png">
 
 Step 6 : Go to Permissions tab
 
@@ -78,14 +78,15 @@ Note :
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/97893144/196939024-78369cdc-10cb-45a4-9f61-84683b80e518.png">
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/97893144/196939085-97c48247-5905-4314-b02b-7d78f7a45c45.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/97893144/196939085-97c48247-5905-4314-b02b-7d78f7a45c45.png">
 
-Step 7 : Copy your buckets ARN 
+
+Step 7 : Copy your buckets ARN, In this case the ARN is arn:aws:s3:::rashmisbucketforcloudquest
+
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/97893144/196939372-9aa9f62f-1bf5-4e28-b4fb-4431a863acff.png">
 
-In this case the ARN is arn:aws:s3:::rashmisbucketforcloudquest
-
 Note :
+
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/97893144/196939575-56350953-67dc-42c3-b2dd-b028bf51964c.png">
 
 Step 8 : Edit the policy and replace the ARN, ensure the ARN ends with /*
